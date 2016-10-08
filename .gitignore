@@ -1,4 +1,5 @@
 .jshintrc
+ngrok
 node_modules
 lost+found
 Thumbs.db
